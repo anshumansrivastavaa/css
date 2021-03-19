@@ -1,0 +1,144 @@
+.btn {
+      cursor: pointer;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      padding: 4px 4px;
+      font-size: 40px;
+      outline: none;
+      }
+     
+      .button {
+      font-weight: bold;
+      padding: 18px 24px;
+      cursor: pointer;
+      box-shadow: 0 9px #999;
+      border: none;
+      text-decoration: none;
+      color: none;
+      background-color: none;
+      outline: none;
+      }
+      .button:hover {
+      background-color: none;
+      }
+      .button:active {
+      background-color: none;
+      color: none;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+      }
+      
+      .button2 {
+      padding: 6px 12px;
+      color: none;
+      background-color: none;
+      }
+     
+      .btn1 {
+      border-radius: 20px; 
+      background-color: #317773;
+      color: #E2D1F9;
+      }
+      .btn1:hover {
+      background-color: #E2D1F9;
+      color: #317773;
+      }
+      
+      .btn2 {
+      }
+      
+      .btn3 {
+      border-radius: 20px;
+      background-color: #295F2D;
+      color: #FFE67C;
+      }
+      .btn3:hover {
+      background-color: #FFE67C;
+      color: #295F2D;
+      }
+      
+      .btn4 {
+      border-radius: 20px;
+      background-color: #F3CA20;
+      color: #4A4B46;
+      }
+      .btn4:hover {
+      background-color: #4A4B46;
+      color: #F3CA20;
+      }
+      
+      .btn5 {
+      border-radius: 10px;
+      background-color: #3D85C6;
+      color: #EEEEEE;
+      }
+      .btn5:hover {
+      background-color: #EEEEEE;
+      color: #3D85C6;
+      }
+      
+      .btn6 {
+      border-radius: 10px;
+      background-color: #E06666;
+      color: #EEEEEE;
+      }
+      .btn6:hover {
+      background-color: #EEEEEE;
+      color: #E06666;
+      }
+      
+      .btn7 {
+      border-radius: 10px;
+      background-color: #CC0000;
+      color: #EEEEEE;
+      }
+      .btn7:hover {
+      background-color: #EEEEEE;
+      color: #CC0000;
+      }
+      
+      .btn8 {
+      border-radius: 10px;
+      background-color: #0B5394;
+      color: #EEEEEE;
+      }
+      .btn8:hover {
+      background-color: #EEEEEE;
+      color: #0B5394;
+      }
+      
+      .btn9 {
+      border-radius: 10px;
+      background-color: RED;
+      color: #EEEEEE;
+      }
+      .btn9:hover {
+      background-color: #EEEEEE;
+      color: RED;
+      }
+      
+      .btn10 {
+      border-radius: 8px;
+      background-color: #357EC7;
+      color: #EEEEEE;
+      }
+      .btn10:hover {
+      background-color: #EEEEEE;
+      color: #357EC7;
+      }
+      
+      .btn11 {
+      border-radius: 8px;
+      background-color: #F70D1A;
+      color: #EEEEEE;
+      }
+      .btn11:hover {
+      background-color: #EEEEEE;
+      color: #F70D1A;
+      }
+      
+      .copy {
+      background-color: yellow;
+      color: red;
+      }
